@@ -670,3 +670,4 @@ public class Book extends javax.swing.JFrame {
     private javax.swing.JComboBox txtpublisher;
     // End of variables declaration//GEN-END:variables
 }
+//new changes
